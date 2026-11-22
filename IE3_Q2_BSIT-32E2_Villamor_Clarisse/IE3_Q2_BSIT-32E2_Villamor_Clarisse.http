@@ -1,0 +1,6 @@
+@IE3_Q2_BSIT_32E2_Villamor_Clarisse_HostAddress = http://localhost:5111
+
+GET {{IE3_Q2_BSIT_32E2_Villamor_Clarisse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
